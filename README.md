@@ -11,3 +11,7 @@ Usage of keylogger.exe:
   -t int
         Upload interval,default: 60min (default 60)
 ```
+
+
+References
+https://github.com/mabangde/pentesttools/blob/master/golang/keylogger.go
