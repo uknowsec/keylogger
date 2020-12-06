@@ -35,7 +35,7 @@ Usage of keylogger.exe:
 ## Data
 
 ```
-C:\Users\<USERNAME>\AppData\Local\Packages\Microsoft.Messaging\360se_temp.tmp
+C:\Users\<USERNAME>\AppData\Local\Packages\Microsoft.Messaging\360se_dump.tmp
 ```
 
 ### References
